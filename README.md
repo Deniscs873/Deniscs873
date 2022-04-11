@@ -2,7 +2,7 @@
 
 
 ### 👨🏻‍💻 Olá! Eu sou o Denis Correia 🙋🏻‍♂️ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I work with back-end | Analyst Process in Additive Manufacturing | Custom Prosthesis | Software Develop | Backend Developer | Python | Django | Java | Javascript | Nodejs.<br>
+Software Developer | Backend Developer | Python | Django | Java | Javascript | Nodejs | Azure AI900 | Process Analyst in Additive Manufacturing | Custom Prosthetics.<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-correia/)
 
