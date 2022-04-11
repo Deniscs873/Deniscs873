@@ -4,7 +4,7 @@
 Software Developer | Backend Developer | Python | Django | Java | Javascript | Nodejs | Azure AI900 | Process Analyst in Additive Manufacturing | Custom Prosthetics.<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-correia/)
-
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:deniscs873@hotmail.com)
 
 <img align="center" alt="html" src="https://img.shields.io/github/followers/Deniscs873.svg?style=social&label=Follow&maxAge=2592000"/>
 
