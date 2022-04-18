@@ -34,7 +34,7 @@ Software Developer | Backend Developer | Python | Django | Java | Javascript | N
     <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </div> <br/>
 
-  ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Deniscs873/Deniscs873/blob/output/github-contribution-grid-snake.svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932cc&height=120&section=footer"/>
 
