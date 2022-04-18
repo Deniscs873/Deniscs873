@@ -12,8 +12,8 @@ Software Developer | Backend Developer | Python | Django | Java | Javascript | N
   <a href="https://github.com/Deniscs873
 ">
   <h1>Knowledge Statistics</h1>
-  <img height="180em"align="center"src="https://github-readme-stats.vercel.app/api?username=Deniscs873&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em"align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniscs873&layout=compact&hide=shell&theme=radical"/>
+  <img height="180em"align="center"src="https://github-readme-stats.vercel.app/api?username=deniscs873&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em"align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniscs873&layout=compact&hide=shell&theme=radical"/>
 </div>
 
 <h1>## Technologies</h1>
@@ -33,9 +33,11 @@ Software Developer | Backend Developer | Python | Django | Java | Javascript | N
     <img align="center" alt="nodered" src="https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
     <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </div> <br/>
-
-  ![Snake animation](https://github.com/Deniscs873/Deniscs873/blob/output/github-contribution-grid-snake.svg)
+<div>
   
+  ![Snake animation](https://github.com/deniscs873/deniscs873/blob/output/github-contribution-grid-snake.svg)
+
+</div>  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932cc&height=120&section=footer"/>
 
 <div style="display> inline_block"><br>
