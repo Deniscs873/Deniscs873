@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932cc&height=120&section=header"/>
 
-<img width=100% src="https://github.com/Deniscs873/Deniscs873/tree/main/assets/header-github.gif" alt= "Olá"/>
+
+<img width=100% src="https://github.com/Deniscs873/Deniscs873/main/assets/header-github.gif" alt= "Olá"/>
 
 
 
