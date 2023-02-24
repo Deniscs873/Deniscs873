@@ -3,7 +3,7 @@
 
 
 ### 👨🏻‍💻 Olá! Eu sou o Denis Correia 🙋🏻‍♂️ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Software Developer | Backend Developer | Python | Django | Java | Javascript | Nodejs | Azure AI900 | Process Analyst in Additive Manufacturing | Custom Prosthetics.<br>
+Instructor AI | Machine Learning Engineer | Software Engineer | Cloud Engineer | Azure AZ-900, AZ-104, AI-900, AI-102, SC-900, DP-900, DP-100 | AWS Cloud | Google Cloud Engineer | Additive Manufacturing.<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-correia/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:deniscs873@hotmail.com)
