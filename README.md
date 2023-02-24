@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932cc&height=120&section=header"/>
 
+<img width=100% src="https://github.com/Deniscs873/Deniscs873/tree/main/assets/header-github.gif" alt= "Olá"/>
+
+
 
 
 ### 👨🏻‍💻 Olá! Eu sou o Denis Correia 🙋🏻‍♂️ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
