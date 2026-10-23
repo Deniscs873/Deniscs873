@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932cc&height=120&section=header"/>
+
+<img width=100% src="https://github.com/Deniscs873/Deniscs873/blob/main/assets/header-github.gif" alt="Animação de apresentação de Denis Correia"/>
+
 <div align="center">
 
 # Denis Correia
