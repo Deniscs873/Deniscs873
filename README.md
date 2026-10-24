@@ -6,63 +6,130 @@
 
 # Denis Correia
 
-**AI Engineering · Applied Machine Learning · Generative AI · Cloud & Industrial Systems**
+### AI Engineering · Generative AI · Applied Machine Learning
+**Azure Cloud · Data Engineering · Industrial AI & IIoT**
 
-*Building intelligent solutions across data, software, cloud, and industrial applications.*
+*Engineering intelligent solutions from real-world data to practical applications.*
 
-[LinkedIn](https://www.linkedin.com/in/denis-correia/) · [Português](README.pt-BR.md) · [Repositories](https://github.com/Deniscs873?tab=repositories)
+<a href="https://www.linkedin.com/in/denis-correia/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Deniscs873?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Explore_Projects-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="README.pt-BR.md"><img alt="Português" src="https://img.shields.io/badge/Português-PT--BR-6E40C9?style=for-the-badge"></a>
 
 </div>
 
 ---
 
-## About
+## About me
 
-I'm a technology professional and instructor with experience across engineering, industrial automation, software systems, data, and security. My current focus is **AI Engineering**: designing and improving machine-learning and generative-AI solutions with an emphasis on integration, evaluation, and reliable software practices.
+I'm an engineering and technology professional, as well as a technical educator, with **16+ years of experience across engineering disciplines**, including industrial automation, software, data and applied technology.
 
-My distinctive intersection is **AI + Cloud + Industrial Engineering/IIoT**. I value reproducible examples, explicit limitations, and clear technical decisions over impressive-sounding claims.
+My focus is **AI Engineering** — connecting machine learning, generative AI and cloud platforms with reliable software practices. My background in industrial systems and IIoT adds a practical perspective to designing solutions for operational environments.
 
-## Selected work
+**What I bring:** engineering mindset · technical education · Azure and data platforms · AI/ML experimentation · industrial automation.
 
-| Repository | What is publicly available | Status |
-| --- | --- | --- |
-| [Software Engineering with AI](https://github.com/Deniscs873/engenharia-software-ia) | TensorFlow.js learning exercises and an e-commerce interaction prototype; further AI modules are planned | In progress |
-| [Machine Learning Notebooks](https://github.com/Deniscs873/colab) | Notebooks covering neural networks, classification, Iris, ROC/AUC, exploratory analysis, and fuzzy logic | Learning projects |
-| [Titanic — Machine Learning](https://github.com/Deniscs873/kaggle_titanic_machinelearning) | Exploratory ML notebook using the Titanic dataset | Learning project |
-| [Python Learning Materials](https://github.com/Deniscs873/material_python) | Python course materials, notebooks, and practical exercises | Educational resources |
+## Featured work
 
-> **Portfolio transparency:** Learning exercises are not presented as production deployments. Each repository should document what has actually been built, how to run it, and what remains to be validated.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Technical focus
+### [AI Software Engineering](https://github.com/Deniscs873/engenharia-software-ia)
+**AI development · TensorFlow.js · JavaScript/Python**
 
-| Domain | Tools and topics |
-| --- | --- |
-| **AI & ML** | Python, TensorFlow/Keras, data preparation, classification, model evaluation |
-| **AI software engineering** | APIs, modular code, integration, testing, documentation |
-| **Generative AI** | LLM applications, RAG, agents, evaluation — active areas of study and development |
-| **Cloud & data platforms** | Microsoft Azure, SQL, data pipelines, analytics |
-| **Industrial intelligence** | Automation, IIoT, sensor data, operational use cases |
+Practical classification exercises and an e-commerce interaction prototype. A growing, documented learning repository.
 
-## Engineering approach
+<sub>**Status:** active development — LLM, RAG and agent modules are on the roadmap.</sub>
 
-For each substantive project I aim to provide:
+</td>
+<td width="50%" valign="top">
 
-- **Problem and scope** — a concrete use case and success criteria.
-- **Architecture and data** — components, dependencies, data provenance, and privacy considerations.
-- **Reproducibility** — setup commands, example inputs, and clear requirements.
-- **Evaluation** — meaningful metrics, test scenarios, and known limitations.
-- **Operations** — security, cost, monitoring, and maintenance where applicable.
+### [Machine Learning Notebooks](https://github.com/Deniscs873/colab)
+**Python · Jupyter · Data Science**
 
-## Next projects — planned, not yet delivered
+Educational notebooks for neural networks, classification, ROC/AUC, Iris, exploratory analysis and fuzzy logic.
 
-- **Technical-document RAG assistant:** retrieval, citations, evaluation, and API integration.
-- **Industrial anomaly detection:** a sensor-data pipeline, baselines, and measurable detection quality.
-- **Cloud MLOps pipeline:** versioning, automated testing, deployment, and monitoring.
+<sub>**Status:** published learning experiments, not production models.</sub>
 
-These are **roadmap items**, not claims of completed implementations.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Connect
+### [Titanic — ML Study](https://github.com/Deniscs873/kaggle_titanic_machinelearning)
+**Machine Learning · Jupyter**
 
-[LinkedIn](https://www.linkedin.com/in/denis-correia/) · [GitHub](https://github.com/Deniscs873)
+An exploratory notebook using the Titanic dataset to investigate machine-learning workflows.
 
-<sub>Documentation is intentionally concise and updated as projects become reproducible.</sub>
+<sub>**Status:** learning study; results require independent validation.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [Python Learning Resources](https://github.com/Deniscs873/material_python)
+**Python · SQL · Teaching**
+
+Notebooks, examples and educational material covering Python programming and related technologies.
+
+<sub>**Status:** published teaching resources.</sub>
+
+</td>
+</tr>
+</table>
+
+## Technologies & domains
+
+<div align="center">
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+<img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+<img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img alt="Node-RED" src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+
+</div>
+
+| Focus | Engineering topics |
+| :--- | :--- |
+| **Machine Learning** | Data preparation, classification, neural networks, evaluation |
+| **Generative AI** | LLMs, RAG, agents and model evaluation — ongoing studies and roadmap |
+| **Cloud & Data** | Azure, data pipelines, analytics and SQL |
+| **Industrial Systems** | IIoT, automation, instrumentation and industrial data |
+| **Software Engineering** | Python, APIs, reproducibility, architecture and testing |
+
+## Professional development
+
+- **Microsoft:** AI-102, AI-900, AZ-900, DP-900, SC-900 and PL-900.
+- **Technical education:** teaching and developing hands-on material in AI, Python, cloud, analytics and automation.
+- **Engineering background:** industrial automation, connectivity and cybersecurity for technology/OT environments.
+
+<details>
+<summary><strong>Engineering roadmap · What I'm building next</strong></summary>
+
+These are planned portfolio projects; they are **not yet completed deployments**.
+
+1. **Technical RAG assistant** — document retrieval with citations, evaluation and an API.
+2. **Industrial anomaly detection** — sensor-data processing, baseline models and measurable results.
+3. **Azure MLOps pipeline** — reproducible training, versioning, tests, deployment and monitoring.
+
+Every published case study should document its problem, architecture, instructions, evaluation and limitations.
+
+</details>
+
+---
+
+<div align="center">
+
+### Let's connect
+
+I'm interested in applied AI, cloud platforms, learning communities and industrial technology.
+
+[**LinkedIn**](https://www.linkedin.com/in/denis-correia/) · [**Repositories**](https://github.com/Deniscs873?tab=repositories) · [**Leia em português**](README.pt-BR.md)
+
+<sub>Learning projects are identified as such; roadmap topics are not presented as implemented features.</sub>
+
+</div>
