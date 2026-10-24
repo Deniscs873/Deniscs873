@@ -36,9 +36,9 @@ My focus is **AI Engineering** — connecting machine learning, generative AI an
 ### [AI Software Engineering](https://github.com/Deniscs873/engenharia-software-ia)
 **AI development · TensorFlow.js · JavaScript/Python**
 
-Practical classification exercises and an e-commerce interaction prototype. A growing, documented learning repository.
+Course-based labs alongside identified personal experiments in classification and a browser-based e-commerce prototype.
 
-<sub>**Status:** active development — LLM, RAG and agent modules are on the roadmap.</sub>
+<sub>**Status:** educational material; individual modules credit their respective sources. Original portfolio projects are on the roadmap.</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -130,6 +130,6 @@ I'm interested in applied AI, cloud platforms, learning communities and industri
 
 [**LinkedIn**](https://www.linkedin.com/in/denis-correia/) · [**Repositories**](https://github.com/Deniscs873?tab=repositories) · [**Leia em português**](README.pt-BR.md)
 
-<sub>Learning projects are identified as such; roadmap topics are not presented as implemented features.</sub>
+<sub>Educational materials and third-party examples are attributed; roadmap topics are not presented as original completed deployments.</sub>
 
 </div>
